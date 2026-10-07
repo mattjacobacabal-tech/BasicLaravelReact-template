@@ -22,7 +22,7 @@ export default function HeroSection() {
                 <h1 className="text-5xl md:text-7xl font-black mb-6 tracking-tight drop-shadow-md leading-tight">Stuck on a Bug?<br/>Get Peer Assistance.</h1>
                 <p className="text-xl md:text-2xl text-blue-100 mb-10 max-w-2xl mx-auto drop-shadow font-medium">Don't let a syntax error ruin your lab session. Submit a ticket and our peer tutors will be right with you.</p>
                 <a href="#submit" className="inline-flex items-center justify-center px-10 py-5 text-xl font-bold rounded-full bg-white text-blue-700 hover:bg-blue-50 transition-all shadow-2xl hover:shadow-blue-400/50 transform hover:-translate-y-1 animate-bounce">
-                    Request Help Now
+                    Request Help Nowhhjfjhfj
                     <img src="https://unpkg.com/heroicons@2.0.18/24/outline/arrow-down.svg" className="w-6 h-6 ml-2" alt="Scroll down" style={{ filter: 'brightness(0) saturate(100%) invert(26%) sepia(90%) saturate(2250%) hue-rotate(205deg) brightness(96%) contrast(93%)' }} />
                 </a>
             </div>
